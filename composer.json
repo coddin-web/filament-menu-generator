@@ -1,0 +1,21 @@
+{
+    "name": "coddin-web/filament-menu-generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CoddinWeb\\FilamentMenuGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marius",
+            "email": "marius@coddin.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2",
+        "filament/filament": "^3.0"
+    }
+}
